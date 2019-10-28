@@ -1,0 +1,23 @@
+.form-group.required .control-label:after {
+    content: "*";
+    color: red;
+}
+
+.flex-container {
+    display: flex;
+}
+
+ul.list-group {
+    width: 80%;
+    display: inline-block;
+}
+
+div.view-buttons {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.flex-container div.view-buttons .btn-primary {
+    margin-bottom: 10px;
+    display: block;
+}

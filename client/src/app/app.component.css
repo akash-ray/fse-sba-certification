@@ -1,0 +1,58 @@
+.navbar-brand {
+    color: #fff;
+}
+
+.modal-backdrop {
+    filter: alpha(opacity=80);
+    opacity: .8;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: black;
+    display: none;
+}
+
+.modal-backdrop-loading {
+    width: 160px;
+    height: 60px;
+    position: absolute;
+    background-color: white;
+    left: 50%;
+    top: 50%;
+    margin: -30px 0 0 -80px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    display: table;
+}
+
+.modal-backdrop-loading span {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.text-bold {
+    font-weight: bold !important;
+}
+
+.loader {
+    height: 100%;
+    display: block;
+    width: 100%;
+    position: static;
+    left: 0;
+    top: 0;
+    margin: 0;
+    border-radius: 0;
+    background-color: #fefefe;
+}
+
+.loader>img {
+    position: relative;
+    top: 40%;
+    width: 10rem;
+    height: 10rem;
+
+}

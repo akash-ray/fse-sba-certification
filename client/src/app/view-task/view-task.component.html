@@ -1,0 +1,94 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">View Task</div>
+  <div class="panel-body">
+    <div class="row" style="margin-bottom:15px">
+      <div class="col-sm-12">
+        <div class="col-sm-5">
+          <strong>Project</strong>
+          <input type="text" class="form-control" style="width: calc(100% - 150px); display: inline-block; margin-left: 15px;" id="project" [(ngModel)]="selectedProjName" disabled>
+          <button class="btn btn-primary" style="margin-left:15px;" (click)="openModal(projModal)">Search</button>
+        </div>
+        <div class="col-sm-7 text-right" style="padding-right:0">
+          <strong>Sort Task By :</strong>
+          <button class="btn btn-default" (click)="sortTask(1)" style="margin-left:10px;">
+            Start Date
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isStartDateAsc===true,
+              'glyphicon-arrow-down':isStartDateAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortTask(2)" style="margin-left:15px;">End Date
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isEndDateAsc===true,
+                'glyphicon-arrow-down':isEndDateAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortTask(3)" style="margin-left:15px;">Priority
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isPriorityAsc===true,
+                'glyphicon-arrow-down':isPriorityAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortTask(4)" style="margin-left:15px;">Completed
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isCompletedAsc===true,
+                'glyphicon-arrow-down':isCompletedAsc===false}"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel panel-primary" *ngIf="taskSearch">
+  <div class="panel-heading">Search Results</div>
+  <div class="panel-body">
+    <div class="table-responsive">
+      <table *ngIf="tasks.length>0" class="table table-striped table-condensed">
+        <thead>
+          <tr>
+            <th>Task</th>
+            <th>Parent</th>
+            <th>Priority</th>
+            <th>Start</th>
+            <th>End</th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let task of tasks">
+            <td>{{task.task_Name}}</td>
+            <td>{{task.parentTaskName}}</td>
+            <td>{{task.priority}}</td>
+            <td>{{task.start_Date|date:'shortDate'}}</td>
+            <td>{{task.end_Date|date:'shortDate'}}</td>
+            <td>
+              <button *ngIf="task.status===0" class="btn btn-primary" (click)="editTask(task)">Edit</button>
+              <button *ngIf="task.status===0" class="btn btn-danger" style="margin-left:15px;"
+                (click)="deleteTask(task)">End Task</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <span *ngIf="tasks.length===0">No Tasks for this project.</span>
+    </div>
+  </div>
+</div>
+<ng-template #projModal>
+  <div class="modal-header">
+    <h4 class="modal-title pull-left">Search Project</h4>
+    <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <div class="row" style="margin-bottom:15px">
+      <div class="col-sm-12">
+        <input type="text" class="form-control" placeholder="Search" [(ngModel)]="searchText">
+      </div>
+    </div>
+    <div class="list-group">
+      <a class="list-group-item" [class.active]="selectedIndex === i"
+        *ngFor="let proj of projects|filteruser:{projectName:searchText}; let i = index"
+        (click)="setIndex(i)">{{proj.projectName}}</a>
+    </div>
+  </div>
+  <div class="modal-footer text-right">
+    <button class="btn btn-primary" (click)="selectProj()">Ok</button>
+    <button class="btn btn-default" (click)="modalRef.hide();selectedIndex=null;">Cancel</button>
+  </div>
+</ng-template>

@@ -1,0 +1,19 @@
+.form-group.required .control-label:after {
+    content: "*";
+    color: red;
+}
+
+.checkbox {
+    padding-top: 0;
+    min-height: auto;
+}
+
+.checkbox label {
+    padding-left: 30px;
+}
+
+.checkbox input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px 0 -30px;
+}

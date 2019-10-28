@@ -1,0 +1,36 @@
+.form-group.required .control-label:after {
+    content: "*";
+    color: red;
+}
+.flex-container {
+    display: flex;
+}
+
+ul.list-group {
+    width: 70%;
+    display: inline-block;
+}
+
+div.view-buttons {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.flex-container div.view-buttons .btn-primary {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.checkbox {
+    min-height: auto;
+}
+
+.checkbox label {
+    padding-left: 30px;
+}
+
+.checkbox input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px 0 -30px;
+}

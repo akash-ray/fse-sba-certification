@@ -1,0 +1,155 @@
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\ProjectManager.dll.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\ProjectManager.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\NLog.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\NLog.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\ProjectManager.dll.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\ProjectManager.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csc.exe
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csc.exe.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csc.rsp
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csi.exe
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csi.exe.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\csi.rsp
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.AppContext.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Collections.Immutable.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Console.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Compression.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.IO.Pipes.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.AccessControl.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Claims.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.ValueTuple.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\vbc.exe
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\vbc.exe.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\vbc.rsp
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\roslyn\VBCSCompiler.exe.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\EntityFramework.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\NLog.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Cors.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.Cors.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\EntityFramework.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\EntityFramework.SqlServer.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\NLog.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.Cors.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojAssemblyReference.cache
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

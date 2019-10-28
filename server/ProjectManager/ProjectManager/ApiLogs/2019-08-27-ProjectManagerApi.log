@@ -1,0 +1,16 @@
+2019-08-27 16:39:14.3260|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80776dff-da1a-4c54-a138-1efa615f49ea
+Method: GET
+URL: http://localhost:8086/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+
+2019-08-27 16:39:14.4159|INFO|ProjectManager.Utils.LoggingUtility|Operation Result Format: JSON
+Request ID: 80776dff-da1a-4c54-a138-1efa615f49ea
+Method: GET
+URL: http://localhost:8086/api/user
+Controller : ProjectManager.Controllers.UserController
+Action : GetUser
+Action Parameters : System.Web.Http.Tracing.ITraceWriterExtensions+<>c__DisplayClass14_0
+

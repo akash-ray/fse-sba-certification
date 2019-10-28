@@ -1,0 +1,152 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    Add Project
+  </div>
+  <div class="panel-body">
+    <div class="form-horizontal">
+      <div class="form-group required">
+        <label class="control-label col-sm-2" for="name">Project:</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="name" placeholder="Enter name"
+            [(ngModel)]="projectToAdd.projectName">
+        </div>
+      </div>
+      <div class="form-group inline">
+        <div class="col-sm-offset-2 col-sm-3">
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" [(ngModel)]="startEndDateEnable" (ngModelChange)="setStartEndDateChange($event)">
+              Set Start and End Date
+            </label>
+          </div>
+        </div>
+        <div class="col-sm-7">
+          <div class="col-sm-12">
+            <div class="col-sm-6">
+              <input type="text" class="form-control" id="startDate" bsDatepicker [minDate]="minStartDate"
+                [(ngModel)]="projectToAdd.projectStartDate" (ngModelChange)="setMinEndDate($event)"
+                [disabled]="!startEndDateEnable"
+                [bsConfig]="{ dateInputFormat: 'MM-DD-YYYY',containerClass: 'theme-blue',showWeekNumbers:false }">
+            </div>
+            <div class="col-sm-6">
+              <input type="text" class="form-control" id="endDate" bsDatepicker [minDate]="minEndDate"
+                [(ngModel)]="projectToAdd.projectEndDate" [disabled]="!startEndDateEnable"
+                [bsConfig]="{ dateInputFormat: 'MM-DD-YYYY',containerClass: 'theme-blue',showWeekNumbers:false }">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-group required">
+        <label class="control-label col-sm-2" for="priority" style="padding-top:20px">Priority:</label>
+        <div class="col-sm-10">
+          <ng5-slider [(value)]="projectToAdd.priority" [options]="{
+                floor: 0,
+                ceil: 30
+              }"></ng5-slider>
+        </div>
+      </div>
+      <div class="form-group required">
+        <label class="control-label col-sm-2" for="user">Manager:</label>
+        <div class="col-sm-6">
+          <input type="text" class="form-control" id="user" [(ngModel)]="selectedUser" disabled>
+        </div>
+        <div class="col-sm-4">
+          <button class="btn btn-primary" (click)="openModal(userModal)">Search</button>
+        </div>
+      </div>
+      <div class=" pull-right">
+        <div class="col-sm-12">
+          <button class="btn btn-primary" (click)="addProject()">{{buttonName}}</button>
+          <button class="btn btn-default" style="margin-left:20px;" (click)="resetProject()">Reset</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel panel-primary">
+  <div class="panel-heading">View Project</div>
+  <div class="panel-body">
+    <div class="row" style="margin-bottom:15px">
+      <div class="col-sm-12">
+        <div class="col-sm-3" style="padding-left:0">
+          <input type="text" class="form-control" placeholder="Search.." [(ngModel)]="searchText">
+        </div>
+        <div class="col-sm-9 text-right" style="padding-right:0">
+          <strong>Sort By:</strong>
+          <button class="btn btn-default" (click)="sortProject(1)" style="margin-left:10px;">Start Date
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isStartDateAsc===true,
+              'glyphicon-arrow-down':isStartDateAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortProject(2)" style="margin-left:15px;">End Date
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isEndDateAsc===true,
+              'glyphicon-arrow-down':isEndDateAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortProject(3)" style="margin-left:15px;">Priority
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isPriorityAsc===true,
+              'glyphicon-arrow-down':isPriorityAsc===false}"></span>
+          </button>
+          <button class="btn btn-default" (click)="sortProject(4)" style="margin-left:15px;">Completed
+            <span class="glyphicon" [ngClass]="{'glyphicon-arrow-up':isCompletedAsc===true,
+              'glyphicon-arrow-down':isCompletedAsc===false}"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="flex-container"
+      *ngFor="let project of projects|filteruser:{projectName:searchText,projectStartDate:searchText,projectEndDate:searchText}">
+      <ul class="list-group">
+        <li class="list-group-item">Project:
+          <strong>{{project.projectName}}</strong>
+        </li>
+        <li class="list-group-item">
+          <span>No fo Tasks:
+            <strong>{{project.noOfTasks}} </strong>
+          </span>
+          <span class="pull-right"> Completed:
+            <strong>
+              {{project.noOfCompletedTasks}} </strong>
+          </span>
+        </li>
+        <li class="list-group-item" *ngIf="project.projectStartDate ||project.projectEndDate">
+          <span *ngIf="project.projectStartDate">Start Date:
+            <strong>{{project.projectStartDate|date:'MM-dd-yyyy'}}</strong>
+          </span>
+          <span class="pull-right" *ngIf="project.projectEndDate"> End Date:
+            <strong>{{project.projectEndDate|date:'MM-dd-yyyy'}}</strong>
+          </span>
+        </li>
+      </ul>
+      <div style="display:inline-block; margin-left:15px;">
+        <div style="padding:10px 0">Priority</div>
+        <label style="padding:10px 0">{{project.priority}}</label>
+      </div>
+      <div class="view-buttons">
+        <button class="btn btn-primary" (click)="editProject(project)">Edit</button>
+        <button class="btn btn-danger" (click)="deleteProject(project)">Suspend</button>
+      </div>
+    </div>
+  </div>
+</div>
+<ng-template #userModal>
+  <div class="modal-header">
+    <h4 class="modal-title pull-left">Search User</h4>
+    <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <div class="row" style="margin-bottom:15px">
+      <div class="col-sm-12">
+        <input type="text" class="form-control" placeholder="Search" [(ngModel)]="searchTextUser">
+      </div>
+    </div>
+    <div class="list-group">
+      <a class="list-group-item" [class.active]="selectedIndexUser === i" *ngFor="let user of users|filteruser:{firstName:searchTextUser
+          ,lastName:searchTextUser}; let i = index" (click)="setIndex(i)">{{user.firstName+' ' +user.lastName}}</a>
+    </div>
+  </div>
+  <div class="modal-footer text-right">
+    <button class="btn btn-primary" (click)="selectUser()">Ok</button>
+    <button class="btn btn-default" (click)="modalRef.hide();selectedIndexUser=null;">Cancel</button>
+  </div>
+</ng-template>

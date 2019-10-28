@@ -1,0 +1,70 @@
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.pdb
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\NLog.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.pdb
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.dll.config
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\NLog.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csproj.CopyComplete
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.dll
+C:\Users\Admin\Desktop\FSE Certification Solution\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\NLog.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Cors.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.pdb
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.dll.config
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\NLog.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csprojAssemblyReference.cache
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csproj.CoreCompileInputs.cache
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.csproj.CopyComplete
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.dll
+C:\fse-sba-final-certification\server\ProjectManager\ProjectManager.Tests\obj\Debug\ProjectManager.Tests.pdb
